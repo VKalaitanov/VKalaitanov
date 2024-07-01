@@ -77,9 +77,8 @@
 <h3>🎞 Портфолио:</h3>
 
 <div align="center">
-  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/shopmoderno.png?raw=true" height="250" width="450" />
-  <img width="12" />
-  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/project-pit.png?raw=true" height="250" width="450" />
+  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/shopmoderno.png?raw=true" height="200" width="400" />
+  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/project-pit.png?raw=true" height="200" width="400" />
 </div>
 
 
