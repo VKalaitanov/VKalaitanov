@@ -4,11 +4,12 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-###
+
 
 <h1 align="center">Привет👋 Меня зовут Владимир!</h1>
 
-###
+
+
 <h3 align="center">⌨️ Связаться со мной:  </h3>
 <div align="center">
   <a href="https://wa.me/79612766626" target="_blank">
@@ -21,39 +22,26 @@
   </a>
 </div>
 
-###
 
-<div align="center">
-  
-</div>
 
-###
 
 <h3 align="left">👨🏻‍💻  Обо мне:</h3>
-
-###
-
 <p align="left">
    Я начинающий бекенд разработчик, способный эффективно решать поставленные задачи. Мой профессиональный путь начался в области систем безопасности, но моя страсть к     программированию привела меня в сферу программной инженерии и разработки. Имею прочные знания в области создания и оптимизации серверных приложений, разработки и интеграции   RESTful API, а также работы с реляционными базами данных (PostgreSQL, SQLite). Знаком с принципами контейнеризации (Docker) и системами контроля версий (Git). Умею работать в команде, коммуникабелен и прагматичен. Стремлюсь к развитию в профессиональной среде и готов вносить вклад в успешные проекты команды.
 </p>
 
 <p>
   <b>🎯 Хобби:</b>
-<p>- 🏋🏻‍ тренажерный зал</p>
+<p>- тренажерный зал 🏋🏻‍</p>
 <p>- экстрим (прыжки с парашютом 🪂, сноубординг 🏂)</p>
-<p>- 🥊 бокс</p>
+<p>- бокс 🥊</p>
 ✈️ Люблю путешествовать, посетил более 10 стран.
 </p>
 <hr> 
 
 
 
-
-###
-
 <h3 align="left">🛠 Технологии:</h3>
-
-### 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" title="Python" />
   <img width="12" />
@@ -85,19 +73,27 @@
 <hr> 
 
 
-<h3 align="left">🔥   Моя статистика :</h3>
 
-###
+<h3>🎞 Портфолио:</h3>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/shopmoderno.png?raw=true" height="250" width="450" />
+  <img width="12" />
+  <img src="https://github.com/vkalaitanov/vkalaitanov/blob/main/project-pit.png?raw=true" height="250" width="450" />
 </div>
 
-###
+
+
+<h3 align="left">🔥 Моя статистика :</h3>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=vkalaitanov&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=filimonovalexey&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=filimonovalexey&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+
