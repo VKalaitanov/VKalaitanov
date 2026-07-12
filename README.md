@@ -28,7 +28,7 @@
 <h3 align="left">👨🏻‍💻  Обо мне:</h3>
 <p align="left">
    Разработчик с большим опытом предпринимательства и управления командами
-Развиваюсь в Python backend разработке. К 2026 стану python backend developer team lead
+Развиваюсь в Python backend разработке. 
 </p>
 
 
